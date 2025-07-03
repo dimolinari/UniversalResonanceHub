@@ -1,0 +1,8 @@
+Nombre artístico y de invención: Dicaoz – Eduardo Molina 🇪🇨  
+Hash de identidad SHA-256:  
+4a768cfed0a9bda2c8bfa0c56d9a2d4a9f6dfcd3fc985b3f83b0c392caa7257f  
+
+Fecha de firma pública: 2025-07-03  
+Este hash certifica mi autoría original de todas las ideas, códigos y símbolos desarrollados en el Sistema de Resonancia Holofractal (S.R.H.), así como su aplicación en IA, computación cuántica y holografía.
+
+Repositorio público: github.com/dimolinari/UniversalResonanceHub
